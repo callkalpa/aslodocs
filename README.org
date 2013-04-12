@@ -1,0 +1,28 @@
+#+TITLE: Sugar activities documentation
+#+AUTHOR: Bastien Guerry
+#+DATE: 2013-04-12
+
+* Why?
+
+The purpose of this repository is to gather documentation about Sugar
+activities in http://activities.sugarlabs.org.
+
+Use a new directory for each new activity.
+
+In this directory, use whatever plain text format you want to gather bits
+of documentation you may find on the Sugar Labs wiki or on other web pages.
+
+- http://wiki.sugarlabs.org/go/Activities#Sugar_Activities
+- http://academy.one-education.org/mod/book/view.php?id=130
+
+* What for?
+
+The purpose of this repository is to be a staging area for getting an
+overview of the available documentation, and the work needed for adding
+documentation directly in each Sugar Activity.
+
+* Be bold!
+
+Don't bother about the format yet.  Use plain text when possible, light
+markup if possible, copy-paste from wikis, whatever.
+
